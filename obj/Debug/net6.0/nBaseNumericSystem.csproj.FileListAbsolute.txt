@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\nBaseNumericSystem.exe
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\nBaseNumericSystem.deps.json
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\nBaseNumericSystem.runtimeconfig.json
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\nBaseNumericSystem.dll
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\ref\nBaseNumericSystem.dll
+C:\Users\user\Desktop\nBaseNumericSystem\bin\Debug\net6.0\nBaseNumericSystem.pdb
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.AssemblyInfo.cs
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.dll
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\ref\nBaseNumericSystem.dll
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.pdb
+C:\Users\user\Desktop\nBaseNumericSystem\obj\Debug\net6.0\nBaseNumericSystem.genruntimeconfig.cache
